@@ -1,0 +1,5 @@
+__author__ = "Eric Rochow"
+__author_email__ = "ericrochow+github@gmail.com"
+__description__ = "API scraper to track API data about myself."
+__title__ = "ScrAPI"
+__version__ = "0.1.0"
