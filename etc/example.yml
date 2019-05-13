@@ -1,0 +1,17 @@
+fitbit:
+  client_id: ""
+  client_secret: ""
+  api_key: ""
+  userid: ""
+
+weather:
+  api_key: ""
+  latitude: ""
+  longitude: ""
+
+influxdb:
+  host: ""
+  port: ""
+  username: ""
+  password: ""
+  database: ""
